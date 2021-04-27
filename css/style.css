@@ -797,6 +797,7 @@ a:focus {
 
 .team .team-img {
     position: relative;
+    right: -70%;
 }
 
 .team .team-img::after {
@@ -825,6 +826,7 @@ a:focus {
     background: #F6F6F7;
     transition: .3s;
     z-index: 2;
+    right: -70%;
 }
 
 .team .team-text h2 {
